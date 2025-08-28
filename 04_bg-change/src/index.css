@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+.display{
+    border: black solid;
+    width: 500px;
+    height: 500px;
+     
+    margin: 20px;
+
+}
+
+input{
+    margin: 20px;
+    border: solid;
+}
+
+
+button{
+    background: lightcoral;
+    width: 50px;
+    padding: 5px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: lightblue;
+}
